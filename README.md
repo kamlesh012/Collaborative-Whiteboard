@@ -1,4 +1,4 @@
-# Collaborative Whiteboard Using JavaScript.
+# Collaborative Whiteboard Using React.js & Node.js
 React.js in Front-End
 Node.js in Back-End
 Socket.io for realtime data transmission.
